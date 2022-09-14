@@ -1,4 +1,4 @@
-## This project is intended for those who might have access to the data, others will not have an API-key. But you are free to check out or use the code if you like!
+## This project is intended for those who might have access to the data, others will not have an API-key. But you are welcome to check out or use the code if you like!
 
 
 RUN "pip install -r requirements.txt" 
